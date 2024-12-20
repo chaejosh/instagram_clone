@@ -32,10 +32,13 @@ https://github.com/user-attachments/assets/d054de76-7888-4eee-b864-fddde2ae3156
 
 Fetched information from the SQLite database corresponding to the user logged into the current session
 
+
 ## User Page
 https://github.com/user-attachments/assets/b66ca646-ff59-45e1-9730-31502212985d
 
 Flask sessions and database manipulation to add (INSERT) and remove (DELETE) posts
+
+Logging out clears the Flask session
 
 
 ## Explore Page
